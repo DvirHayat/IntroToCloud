@@ -1,5 +1,5 @@
 Dvir Hayat Dvir.Hayat@e.braude.ac.il [Cloud Computing, DM&ML, Physics] www.youtube.com/watch?v=4Wa5DivljOM
-Rafael abbassov Rafael14399@gmail.com [Cloud Computing, DM&ML, Physics] www.youtube.com/watch?v=aircAruvnKk
+Rafael abbassov rafael.abbassov@e.braude.ac.il [Cloud Computing, DM&ML, Physics] www.youtube.com/watch?v=aircAruvnKk
 Avishay Halifa Avishay.halifa@e.Braude.ac.il [Cloud Computing, Cryptography, Intro to AI] www.linkedin.com
 Avner Shimon Avner.Shimon@e.braude.ac.il [Cryptography, Intro to AI, Physics] www.regex101.com
 Bar Leibovich Bar.Leibovich@e.braude.ac.il [Cryptography, Intro to AI, Physics] https://pythontutor.com/python-compiler.html
