@@ -1,0 +1,74 @@
+[
+    {
+        "first_name": "Dvir",
+        "last_name": "Hayat",
+        "email": "Dvir.Hayat@e.braude.ac.il",
+        "courses": [
+            "Cloud Computing",
+            "DM&ML",
+            "Physics"
+        ],
+        "interesting_link": "www.youtube.com/watch?v=4Wa5DivljOM",
+        "favorite_program": ""
+    },
+    {
+        "first_name": "Rafael",
+        "last_name": "Abbassov",
+        "email": "rafael.abbassov@e.braude.ac.il",
+        "courses": [
+            "Cloud Computing",
+            "DM&ML",
+            "Physics"
+        ],
+        "interesting_link": "www.youtube.com/watch?v=aircAruvnKk",
+        "favorite_program": ""
+    },
+    {
+        "first_name": "Avishay",
+        "last_name": "Halifa",
+        "email": "Avishay.halifa@e.Braude.ac.il",
+        "courses": [
+            "Cloud Computing",
+            "Cryptography",
+            "Intro to AI"
+        ],
+        "interesting_link": "www.linkedin.com",
+        "favorite_program": ""
+    },
+    {
+        "first_name": "Avner",
+        "last_name": "Shimon",
+        "email": "Avner.Shimon@e.braude.ac.il",
+        "courses": [
+            "Cryptography",
+            "Intro to AI",
+            "Physics"
+        ],
+        "interesting_link": "www.regex101.com",
+        "favorite_program": ""
+    },
+    {
+        "first_name": "Bar",
+        "last_name": "Leibovich",
+        "email": "Bar.Leibovich@e.braude.ac.il",
+        "courses": [
+            "Cryptography",
+            "Intro to AI",
+            "Physics"
+        ],
+        "interesting_link": "https://pythontutor.com/python-compiler.html",
+        "favorite_program": ""
+    },
+    {
+        "first_name": "Tamir",
+        "last_name": "Nahari",
+        "email": "tamir.nahari@e.braude.ac.il",
+        "courses": [
+            "Cloud Computing",
+            "Web",
+            "Intro to AI"
+        ],
+        "interesting_link": "https://learngitbranching.js.org/",
+        "favorite_program": ""
+    }
+]
